@@ -1,0 +1,11 @@
+pig
+wolf
+cow
+mum
+dad
+sister
+aunt
+lion
+tiger
+dog
+cat

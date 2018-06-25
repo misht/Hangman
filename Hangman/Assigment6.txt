@@ -1,0 +1,33 @@
+Name: Mishell Tigse Ortiz
+Student ID: 2561974
+
+Hours used: 15 hours.
+
+Easy and difficult issues with the assignment:
+
+In this last assignment, I have faced a lot of difficulties such as making 
+a good structure because although it is well explained, I did not where to 
+make the function that displays the hidden word or where to make the function 
+that changes the hidden word if a character was guessed. In addition, another 
+difficulty was to display the letters one time the user has guessed them so I 
+have to make a good research in order to find a lot of things about String and 
+Character classes and another difficult thing is the efficiency of the project
+so please if you have any comment tell me. However, I think that this project 
+is one of the most fun projects that I have done so far. Finally, the easiest 
+thing I think that was programming one time I had the structure on my mind. 
+
+What did you learn from the assignment?
+
+I have learned a lot of things in this assignment such as read a char 
+'c = read.next().charAt(0)', convert a String in an array of String 
+'String[] word = this.word.split("")', count how many times a character 
+appears in a String 'int count = this.word.length() - this.word.replaceAll(Character.toString(Character.toLowerCase(character)),"").length()',
+read a file in the method giveWords() , the use of lists, select a random 
+item from a list in the method selectRandomWordFromWordList and a lot of things more.
+The program works the following way, if you choose the option 1, it automatically reads 
+'WordList.txt' that I have added to the file and the guesses are 10 then if you want to 
+select another file, you choose option 2 and there, you can change the file, the number 
+of guesses  or both and after those changes, it automatically displays the game.
+
+Thank you in advance for everything that I have learned in this course,
+Mishell Tigse.
